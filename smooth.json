@@ -1,0 +1,9 @@
+{
+	"name" : "Smooth fast",
+	"script" : "rotate.py",
+	"args" :
+	{
+		"time" : 0.03,
+		"increment" : 0.01
+	}
+}

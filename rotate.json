@@ -1,0 +1,9 @@
+{
+	"name" : "Rotate",
+	"script" : "rotate.py",
+	"args" :
+	{
+		"hue"     : 0.3,
+		"time" : 5.0
+	}
+}
